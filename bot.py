@@ -13,7 +13,7 @@ import random
 import urllib
 import io
 bot = Bot("lqjbexghodpqvjahoilbkctkecgfrcer")
-target = "g0B4iUO05c03f473c443eb250583a8ea"
+target = "g0BE2Mm080795bd3b917656381a862da"
 # created By HiBye & ShayanHeidari(Snipe4Kill)(TG GAMES)(libs for Bahman Ahmadi)
 
 def hasAds(msg):
